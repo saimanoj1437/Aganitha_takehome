@@ -33,16 +33,6 @@ poetry install
 
 
 
-
-
-
-
-
-
-
-
-
-
 ▶️ Usage
 Run the command-line tool
 bash

@@ -1,3 +1,18 @@
+This project utilizes LLM (Large Language Models) to generate concise summaries of research papers.
+We use Hugging Face's Mistral-7B-Instruct model for this purpose.
+
+
+Why LLM?
+
+Extracts key insights from research abstracts
+Provides short and readable summaries
+Helps in quick understanding of research topics
+
+
+
+
+
+
 🛠 Installation
 1️⃣ Clone the Repository
 bash

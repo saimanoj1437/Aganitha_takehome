@@ -1,4 +1,4 @@
-📄 Research Paper Fetcher
+ 📄 Research Paper Fetcher
 📌 Overview
 This Python program fetches research papers from PubMed API, filters those with company-affiliated authors, and saves the results as a CSV file.
 
